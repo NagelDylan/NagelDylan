@@ -96,8 +96,15 @@ In my journey as a software developer, I've had the pleasure of working with a w
         height="40"/> 
     </a> 
   
-  <a href="[https://www.w3schools.com/git/](https://monogame.net/documentation/)"> 
+  <a href="https://monogame.net/documentation/"> 
       <img src="https://asset.brandfetch.io/idXSff6iX5/idEFIfrKxv.svg" 
+        alt="graphql" 
+        width="40" 
+        height="40"/> 
+    </a> 
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
         alt="graphql" 
         width="40" 
         height="40"/> 

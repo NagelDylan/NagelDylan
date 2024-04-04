@@ -30,7 +30,7 @@ In my journey as a software developer, I've had the pleasure of working with a w
       height="40"
     />
   </a>
->
+
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img

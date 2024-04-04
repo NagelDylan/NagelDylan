@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Dylan Nagel (He/Him)
 
-Welcome to my corner of GitHub! 🚀 I'm a passionate software developer, currently studying Computer Science at the University of Waterloo. With 4 years of coding experience under my belt, I've spent the last year and a half dedicating myself to serious programming projects. 
+Welcome to my corner of GitHub! 🚀 I'm a passionate software developer, currently studying Computer Science at the University of Waterloo. With 3 years of coding experience under my belt, I've developed a keen interest in web and game development.
 
 ## 📚 About Me
 

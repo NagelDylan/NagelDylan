@@ -109,6 +109,20 @@ In my journey as a software developer, I've had the pleasure of working with a w
         width="40" 
         height="40"/> 
     </a> 
+    
+  <a href="https://www.w3schools.in/operating-system/linux-operating-system"> 
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" 
+        alt="graphql" 
+        width="40" 
+        height="40"/> 
+    </a>
+
+  <a href="https://www.cloudflare.com/en-ca/"> 
+      <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" 
+        alt="graphql" 
+        width="40" 
+        height="40"/> 
+    </a>
 </p>
 
 ## 🌟 My Pride and Joy Projects

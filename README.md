@@ -58,7 +58,7 @@ In my journey as a software developer, I've had the pleasure of working with a w
   </a> 
   
   <a href="https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" 
       alt="graphql" 
       width="40" 
       height="40"/> 

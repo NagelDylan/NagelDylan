@@ -21,7 +21,7 @@ Beyond the world of code, you'll find me immersed in a good book 📖, planning 
 ## 🌍 Let's Connect!
 
 - **Email**: Dylan.nagel2022@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/nageldylan/)**
+- **LinkedIn**: [nageldylan](https://www.linkedin.com/in/nageldylan/)
 - **Instagram**: @Dylan__nagel
 
 Whether you're here to collaborate or just to say hi, don't be a stranger! I'm always open to discussing new projects, sharing insights, or exploring the endless possibilities that programming has to offer.

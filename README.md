@@ -88,12 +88,19 @@ In my journey as a software developer, I've had the pleasure of working with a w
 
 ### Tools and Frameworks
 
-- **Git** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **MonoGame** ![MonoGame](https://img.shields.io/badge/-MonoGame-603CBA?style=flat-square&logo=monogame&logoColor=white)
-- **Pipeline** ![Pipeline](https://img.shields.io/badge/-Pipeline-CC3534?style=flat-square&logo=pipeline&logoColor=white)
-- **.NET** ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-- **Linux** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- **CloudFlare** ![CloudFlare](https://img.shields.io/badge/-CloudFlare-F38020?style=flat-square&logo=cloudflare&logoColor=white
+<a href="https://www.w3schools.com/git/"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" 
+      alt="graphql" 
+      width="40" 
+      height="40"/> 
+  </a> 
+
+<a href="[https://www.w3schools.com/git/](https://monogame.net/documentation/)"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" 
+      alt="graphql" 
+      width="40" 
+      height="40"/> 
+  </a> 
 
 ## 🌟 My Pride and Joy Projects
 

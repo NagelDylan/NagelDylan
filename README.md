@@ -57,7 +57,7 @@ In my journey as a software developer, I've had the pleasure of working with a w
       height="40"/> 
   </a> 
   
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" 
       alt="graphql" 
       width="40" 

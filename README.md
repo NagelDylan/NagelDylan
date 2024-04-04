@@ -77,6 +77,13 @@ In my journey as a software developer, I've had the pleasure of working with a w
       width="40" 
       height="40"/> 
   </a> 
+
+  <a href="https://www.w3schools.io/terminal/bash-tutorials/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" 
+      alt="graphql" 
+      width="40" 
+      height="40"/> 
+  </a> 
 </p>
 
 ### Tools and Frameworks

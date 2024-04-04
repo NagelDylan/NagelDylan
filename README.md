@@ -69,6 +69,13 @@ In my journey as a software developer, I've had the pleasure of working with a w
       alt="graphql" 
       width="40" 
       height="40"/> 
+  </a>
+
+  <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" 
+      alt="graphql" 
+      width="40" 
+      height="40"/> 
   </a> 
 </p>
 

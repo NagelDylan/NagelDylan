@@ -88,19 +88,21 @@ In my journey as a software developer, I've had the pleasure of working with a w
 
 ### Tools and Frameworks
 
-<a href="https://www.w3schools.com/git/"> 
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" 
-      alt="graphql" 
-      width="40" 
-      height="40"/> 
-  </a> 
-
-<a href="[https://www.w3schools.com/git/](https://monogame.net/documentation/)"> 
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" 
-      alt="graphql" 
-      width="40" 
-      height="40"/> 
-  </a> 
+<p align="left" class="image">
+  <a href="https://www.w3schools.com/git/"> 
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" 
+        alt="graphql" 
+        width="40" 
+        height="40"/> 
+    </a> 
+  
+  <a href="[https://www.w3schools.com/git/](https://monogame.net/documentation/)"> 
+      <img src="https://asset.brandfetch.io/idXSff6iX5/idEFIfrKxv.svg" 
+        alt="graphql" 
+        width="40" 
+        height="40"/> 
+    </a> 
+</p>
 
 ## 🌟 My Pride and Joy Projects
 

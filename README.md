@@ -21,6 +21,7 @@ In my journey as a software developer, I've had the pleasure of working with a w
       height="40"
     />
   </a>
+  
   <a
   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   target="_blank"

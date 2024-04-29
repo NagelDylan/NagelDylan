@@ -135,7 +135,7 @@ In my journey as a software developer, I've had the pleasure of working with a w
 
 1. **AI Toolkit**: Imagine a web app where creativity meets AI. From art creation to music generation, this is your one-stop-shop for all things AI.
 2. **Job Type**: A website that not only teaches efficient typing but also tailors the learning experience to your career field. Practice with purpose.
-3. **Piano Type**: Combining the joy of music with the thrill of gaming. Experience your favorite songs in a whole new way.
+3. **Spoticate**: Scrapes information from your spotify and creates an AI generated song to match your music preferences.
 
 ## 🌍 Let's Connect!
 

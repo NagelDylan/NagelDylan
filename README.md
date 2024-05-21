@@ -141,7 +141,7 @@ In my journey as a software developer, I've had the pleasure of working with a w
 
 - **Email**: Dylan.nagel2022@gmail.com
 - **LinkedIn**: [nageldylan](https://www.linkedin.com/in/nageldylan/)
-- **Instagram**: @Dylan__nagel
+- **Instagram**: [@Dylan__nagel](https://www.instagram.com/dylan__nagel?igsh=MWRhcjlwZXVzYXppdw%3D%3D&utm_source=qr)
 
 Whether you're here to collaborate or just to say hi, don't be a stranger! I'm always open to discussing new projects, sharing insights, or exploring the endless possibilities that programming has to offer.
 

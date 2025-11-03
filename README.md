@@ -1,148 +1,48 @@
 # 👋 Hey there! I'm Dylan Nagel
 
-Welcome to my corner of GitHub! 🚀 I'm a passionate software developer, currently studying Computer Science at the University of Waterloo. With 3 years of coding experience under my belt, I've developed a keen interest in web and game development.
+Welcome to my GitHub! 🚀
 
-## 📚 About Me
+I'm a Computer Science student at the University of Waterloo, passionate about building high-impact software.
 
-Beyond the world of code, you'll find me immersed in a good book 📖, planning out my next travel destination ✈️, or getting competitive in squash or batminton 🏸. These interests fuel my creativity and inspire my projects.
+I have professional experience as a **Software Development Intern at Carta**, where I'm currently engineering an AI email routing service to automate operational costs. I also have experience as a **Full Stack Developer at Empathia.ai**, where I built a full-stack RAG system to enhance AI personalization and led the development of the company's main website.
 
-## 🛠 Languages and Frameworks
+## 🛠 Technical Skills
 
-In my journey as a software developer, I've had the pleasure of working with a wide array of languages and frameworks. Here's a snapshot of what I've worked with:
+Here's a snapshot of the technologies I've worked with:
 
-### Programming Languages
+* **Languages:** Java, Python, C, C++, C#, JavaScript, TypeScript, SQL, Bash
+* **Frameworks & Libraries:** React, Node.js, Express, Django, Flask, FastAPI, .NET, MonoGame
+* **Cloud & Data:** AWS (S3), GCP, PostgreSQL, MySQL, MongoDB, Redis, Kafka
+* **Tools & Workflow:** Docker, Kubernetes, n8n, Git, Jenkins, Figma, Cloudflare, Jira
 
-<p align="left" class="image">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+## 🌟 Featured Projects
 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" 
-      width="40" 
-      height="40"/> 
-  </a> 
-  
-  <a href="[https://www.w3.org/html/](https://html.spec.whatwg.org/multipage/)" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-      alt="html5" 
-      width="40" 
-      height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" 
-      alt="graphql" 
-      width="40" 
-      height="40"/> 
-  </a> 
+Here are a few projects I'm proud of.
 
-  <a href="https://racket-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" 
-      alt="graphql" 
-      width="40" 
-      height="40"/> 
-  </a>
+* **[Acronymize](https://github.com/NagelDylan/Acronymize)**
+    * A full-stack word puzzle game built with a React/TypeScript frontend and a Django/PostgreSQL backend.
+    * Features secure user authentication for progress tracking and a unique player feedback system using an ML sentence transformer model.
 
-  <a href="https://www.w3schools.com/java/java_intro.asp" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" 
-      alt="graphql" 
-      width="40" 
-      height="40"/> 
-  </a> 
+* **[FlowSense](https://github.com/NagelDylan/FlowSense)**
+    * **🏆 1st Place Winner at Hack the North (out of 100+ teams)**
+    * A dynamic reading platform (React, Django, PostgreSQL) that uses a RAG approach with the OpenAI GPT API to provide real-time, context-aware word explanations.
 
-  <a href="https://www.w3schools.io/terminal/bash-tutorials/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" 
-      alt="graphql" 
-      width="40" 
-      height="40"/> 
-  </a> 
-</p>
-
-### Tools and Frameworks
-
-<p align="left" class="image">
-  <a href="https://www.w3schools.com/git/"> 
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" 
-        alt="graphql" 
-        width="40" 
-        height="40"/> 
-    </a> 
-  
-  <a href="https://monogame.net/documentation/"> 
-      <img src="https://asset.brandfetch.io/idXSff6iX5/idEFIfrKxv.svg" 
-        alt="graphql" 
-        width="40" 
-        height="40"/> 
-    </a> 
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" 
-        alt="graphql" 
-        width="40" 
-        height="40"/> 
-    </a> 
-    
-  <a href="https://www.w3schools.in/operating-system/linux-operating-system"> 
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" 
-        alt="graphql" 
-        width="40" 
-        height="40"/> 
-    </a>
-
-  <a href="https://www.cloudflare.com/en-ca/"> 
-      <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" 
-        alt="graphql" 
-        width="40" 
-        height="40"/> 
-    </a>
-</p>
-
-## 🌟 My Pride and Joy Projects
-
-- **[Tanks](https://github.com/NagelDylan/Tanks)**: A recreation of my favourite childhood game "Wii Tanks!"
-- **[Ice Cold Butter Beer](https://github.com/NagelDylan/IceColdButterBeer)**: Recreation of my favourite retro arcade game "Ice Cold Beer"
-- **[Recipe Finder](https://github.com/NagelDylan/RecipeFinder)**: Your go-to app for discovering delicious recipes tailored to your ingredients at home.
+* **[Tanks](https://github.com/NagelDylan/Tanks)**
+    * An object-oriented game built in C# and MonoGame based on the classic "Wii Tanks!"
+    * Features personality-driven AI using the A* pathfinding algorithm for intelligent enemy movement and robust auto-aim logic.
 
 ## 🔨 What I'm Working On
 
-1. **AI Toolkit**: Imagine a web app where creativity meets AI. From art creation to music generation, this is your one-stop-shop for all things AI.
-2. **Job Type**: A website that not only teaches efficient typing but also tailors the learning experience to your career field. Practice with purpose.
-3. **Spoticate**: Scrapes information from your spotify and creates an AI generated song to match your music preferences.
+I'm always exploring new ideas. Here's what I'm currently building:
+
+1.  **BlinkTrack:** A desktop wellness app that uses your webcam and a computer vision model to monitor your blink rate. It aims to combat digital eye strain by providing gamified stats, leaderboards, and timely reminders, turning healthy eye habits into a challenge.
+2.  **ContextAI:** A "second brain" browser extension that uses a RAG model to passively index your browsing history and personal notes. It will allow you to ask complex, context-aware questions about your own research and digital footprint.
+
+## 📚 About Me
+
+Beyond the world of code, you'll find me immersed in a good book 📖, planning out my next travel destination ✈️, or getting competitive in squash or badminton 🏸.
 
 ## 🌍 Let's Connect!
 
-- **Email**: Dylan.nagel2022@gmail.com
-- **LinkedIn**: [nageldylan](https://www.linkedin.com/in/nageldylan/)
-- **Instagram**: [@Dylan__nagel](https://www.instagram.com/dylan__nagel?igsh=MWRhcjlwZXVzYXppdw%3D%3D&utm_source=qr)
-
-Whether you're here to collaborate or just to say hi, don't be a stranger! I'm always open to discussing new projects, sharing insights, or exploring the endless possibilities that programming has to offer.
-
-Let's make something amazing together! 💡
+* **Email**: dylannagel05@gmail.com
+* **LinkedIn**: [linkedin.com/in/nageldylan](https://www.linkedin.com/in/nageldylan/)

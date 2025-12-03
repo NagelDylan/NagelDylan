@@ -24,7 +24,7 @@ Here are a few projects I'm proud of.
     * Features secure user authentication for progress tracking and a unique player feedback system using an ML sentence transformer model.
 
 * **[FlowSense](https://github.com/NagelDylan/FlowSense)**
-    * **🏆 1st Place Winner at Hack the North (out of 100+ teams)**
+    * **🏆 1st Place Winner at Hack the North Beginner Hacks**
     * A dynamic reading platform (React, Django, PostgreSQL) that uses a RAG approach with the OpenAI GPT API to provide real-time, context-aware word explanations.
 
 * **[Tanks](https://github.com/NagelDylan/Tanks)**

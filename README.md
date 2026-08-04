@@ -19,13 +19,13 @@ Built RAG features that used a user's own notes to improve AI editing suggestion
 
 ## Projects
 
-**[Acronymize](https://github.com/dylannagel/acronymize)** · React, TypeScript, Django, PostgreSQL
+**[Acronymize](https://github.com/nageldylan/acronymize)** · React, TypeScript, Django, PostgreSQL
 A word puzzle game with three game modes. The interesting part is the feedback system: Wordle style positional hints, plus a live similarity score for each guess computed by a sentence transformer model against cached puzzle embeddings.
 
-**[FlowSense](https://github.com/dylannagel/flowsense)** · React, Django, PostgreSQL
+**[FlowSense](https://github.com/nageldylan/flowsense)** · React, Django, PostgreSQL
 A reading platform for dense PDFs. Handles inline annotation and contextual word definitions, using retrieval over the surrounding document so an explanation fits the passage you are actually reading. Built at Hack the North.
 
-**[Tanks](https://github.com/dylannagel/tanks)** · C#, MonoGame, .NET
+**[Tanks](https://github.com/nageldylan/tanks)** · C#, MonoGame, .NET
 A tank game written from scratch. A* pathfinding drives a set of enemy behaviour states so different opponents play differently, and the auto aim solves for intercept angles from target position and velocity rather than aiming where the target currently is.
 
 ## Tools
@@ -38,4 +38,4 @@ pytest, Playwright
 
 ## Contact
 
-[Personal Site](https://dylan.nagelbros.com) · [LinkedIn](https://linkedin.com/in/dylannagel) · dylannagel05@gmail.com
+[Personal Site](https://dylan.nagelbros.com) · [LinkedIn](https://linkedin.com/in/nageldylan) · dylannagel05@gmail.com

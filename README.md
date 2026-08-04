@@ -38,4 +38,4 @@ pytest, Playwright
 
 ## Contact
 
-[Site](https://dylan.nagelbros.com) · [LinkedIn](https://linkedin.com/in/dylannagel) · dylannagel05@gmail.com
+[Personal Site](https://dylan.nagelbros.com) · [LinkedIn](https://linkedin.com/in/dylannagel) · dylannagel05@gmail.com

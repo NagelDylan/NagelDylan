@@ -28,6 +28,10 @@ A reading platform for dense PDFs. Handles inline annotation and contextual word
 **[Tanks](https://github.com/nageldylan/tanks)** · C#, MonoGame, .NET
 A tank game written from scratch. A* pathfinding drives a set of enemy behaviour states so different opponents play differently, and the auto aim solves for intercept angles from target position and velocity rather than aiming where the target currently is.
 
+**[Breadcrumb](https://github.com/NagelDylan/Breadcrumbs)** · Kotlin, Jetpack Compose, Supabase (Postgres/PostGIS), Mapbox
+A travel-journal Android app that turns trip photos into an interactive map. Backend, database, and the map screen were my scope: zoom-aware Postgres RPCs return only the stops/routes visible in the current viewport, backed by PostGIS geography columns and row-level security scoped to trip members and accepted friends.
+
+
 ## Tools
 
 Python, TypeScript, JavaScript, C#, C, SQL
